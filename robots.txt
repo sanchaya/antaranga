@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antaranga.sanchaya.net/sitemap.xml
